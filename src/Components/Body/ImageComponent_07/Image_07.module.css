@@ -1,0 +1,60 @@
+.div_container {
+    width: 100%;
+    height:auto;
+    float: left;
+    background-image: url('./one.webp');
+    background-size: cover;
+    background-position: center;
+    background-Repeat: 'no-repeat';
+    height: 42rem;
+    display: 'flex';
+    align-Items: 'center';
+    justify-Content: 'left';
+    margin-top: 2rem;
+  }
+
+  .content {
+      text-align: left;
+      margin-left: 8rem;
+    }
+
+  .h1 {
+      font-size: 4rem;
+      color: white;
+      width: 35rem;
+      margin-left: 1.5rem;
+      margin-top: 6rem;
+    }
+
+  .p {
+      font-size: 1.5rem;
+      margin-left: 1.5rem;
+      width: 60rem;
+      color: white;
+      font-weight: bolder;
+    }
+
+  .ul {
+      list-style-type: none;
+      padding: 0;
+    }
+  .li {
+      display: inline-block;
+    }
+
+  .button {
+      padding: 0.75rem 1rem;
+      font-size: 1.2rem;
+      margin-left: 1.5rem;
+      background-color: darkred;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+  .button:hover {
+      background-color: red;
+      font-weight: bolder;
+    }

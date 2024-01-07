@@ -1,0 +1,16 @@
+.text_01 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    float: left;
+    height: 4rem;
+  }
+
+  .h1 {
+    margin-left: 2.5rem;
+    font-size: 2rem;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+  }
+

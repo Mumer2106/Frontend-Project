@@ -1,0 +1,9 @@
+.input {
+    width: 16rem;
+    height: 1.50rem;
+    margin-left: 3rem;
+    background-color: black;
+    border-color: beige ;
+    color: white;
+    text-size-adjust: 1rem;
+}

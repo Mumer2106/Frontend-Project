@@ -1,0 +1,17 @@
+.button{
+    background-color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 1rem;
+    cursor: pointer;
+    margin-right: 0.8rem;
+    margin-top: 0.25rem;
+  }
+
+.buttonStyle {
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border-color: black;
+}
+
